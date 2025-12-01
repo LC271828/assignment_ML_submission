@@ -1,0 +1,15 @@
+# config.yaml
+
+paths:
+  supervised: "data/raw/clean_supervised.csv"
+  unsupervised: "data/raw/unsupervised_no_target.csv"
+
+supervised:
+  target: "mental_health_score"
+  test_size: 0.2
+  random_state: 42
+
+unsupervised:
+  use_numeric_only: true
+  random_state: 42
+  k: 3

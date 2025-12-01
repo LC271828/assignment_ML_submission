@@ -1,0 +1,21 @@
+# Dependencies are only required if we run code (Option B). For Option A (conceptual only),
+# you don't have to install these.
+
+# Core data & ML
+numpy~=2.1
+pandas~=2.2
+scipy~=1.13
+scikit-learn~=1.5
+
+# Visualization
+matplotlib~=3.9
+seaborn~=0.13
+
+# Notebooks (optional but useful)
+jupyter~=1.1
+ipykernel~=6.29
+nbconvert~=7.16
+jinja2~=3.1
+black
+ruff
+PyYAML~=6.0

@@ -1,0 +1,74 @@
+PROJECT DIRECTORY OVERVIEW
+==========================
+
+Root: C:\Users\leoal\OneDrive - Curtin\Documents\uni\Scholarships\UGM_2025\Study\ai\W11_12 ML\assignment_ML
+
+├── .git/
+├── .gitignore  [361.0B]
+├── .venv/
+├── .vscode/
+│   ├── settings.json  [554.0B]
+│   └── tasks.json  [1.2KB]
+├── config.yaml  [284.0B]
+├── data/
+│   ├── in_class/
+│   │   ├── sample_supervised.csv  [148.0B]
+│   │   └── sample_unsupervised.csv  [113.0B]
+│   ├── processed/
+│   │   ├── README.md  [100.0B]
+│   │   ├── supervised_metrics.json  [1.8KB]
+│   │   ├── unsupervised_kmeans_labels.csv  [5.9KB]
+│   │   └── unsupervised_metrics.json  [52.0B]
+│   └── raw/
+│       ├── clean_supervised.csv  [165.7KB]
+│       ├── README.md  [174.0B]
+│       └── unsupervised_no_target.csv  [143.7KB]
+├── docs/
+│   ├── assignment_context.md  [1.1KB]
+│   ├── chats/
+│   │   ├── WhatsApp Chat with ai group (3)/
+│   │   │   └── WhatsApp Chat with ai group.txt  [232.7KB]
+│   │   └── WhatsApp Chat with ai group (3).zip  [75.8KB]
+│   ├── EN_example_data.md  [1.4KB]
+│   ├── example_data.pdf  [396.4KB]
+│   ├── in_class/
+│   │   ├── class_task.ipynb  [22.1KB]
+│   │   ├── class_task_D24_11.jpg  [259.3KB]
+│   │   ├── README.md  [493.0B]
+│   │   └── task_2025-11-24.md  [6.1KB]
+│   ├── pre_class/
+│   │   └── README.md  [528.0B]
+│   ├── presentation_next_week/
+│   │   ├── evaluation_notes.md  [377.0B]
+│   │   ├── exports/
+│   │   │   ├── implementation_supervised.html  [532.9KB]
+│   │   │   ├── implementation_supervised.pdf  [175.3KB]
+│   │   │   ├── implementation_supervised_run2.pdf  [175.3KB]
+│   │   │   ├── implementation_unsupervised.html  [881.5KB]
+│   │   │   └── implementation_unsupervised.pdf  [293.5KB]
+│   │   ├── final_slides.pdf  [0.0B (empty)]
+│   │   ├── implementation_supervised.ipynb  [194.7KB]
+│   │   ├── implementation_unsupervised.ipynb  [361.6KB]
+│   │   ├── notebook_runs/ (empty)
+│   │   ├── README.md  [3.0KB]
+│   │   └── slides_outline.md  [781.0B]
+│   ├── project_overview.txt  [3.1KB]
+│   ├── README.md  [7.9KB]
+│   ├── references/ (empty)
+│   └── setup.md  [3.4KB]
+├── README.md  [2.4KB]
+├── requirements.txt  [379.0B]
+├── scripts/
+│   ├── check_env.py  [2.1KB]
+│   ├── refresh_project_overview.py  [2.2KB]
+│   └── zip_project.py  [1.2KB]
+├── src/
+│   ├── __init__.py  [0.0B (empty)]
+│   ├── __pycache__/
+│   │   ├── __init__.cpython-310.pyc  [210.0B]
+│   │   └── data_io.cpython-310.pyc  [4.4KB]
+│   ├── data_io.py  [6.2KB]
+│   └── README.md  [303.0B]
+└── zips/
+    ├── project_backup_2025-11-19_20-11-10.zip  [380.9KB]
+    └── project_backup_2025-11-19_20-12-29.zip  [380.9KB]

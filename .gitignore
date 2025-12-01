@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VS Code settings (keep tracked files as needed)
+!.vscode/settings.json
+!.vscode/tasks.json
+.vscode/*
+
+# OS
+.DS_Store
+Thumbs.db
+docs/chats/
+zips/
+docs/presentation_next_week/exports/
